@@ -1,4 +1,4 @@
-# ATM Simulation Application
+# ATM Interface Application
 
 This project is a simple ATM simulation application built using Java. 
 The application allows users to perform basic banking operations such as withdrawing money, depositing money, and checking their account balance.
